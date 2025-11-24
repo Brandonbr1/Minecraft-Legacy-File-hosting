@@ -1,0 +1,1 @@
+Drop the 1.6.2 minecraft jar file in here. Make sure to name it '1.6.2.jar'.
